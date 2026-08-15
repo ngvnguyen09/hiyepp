@@ -1,0 +1,9 @@
+{
+  "application_name": "Hi!Yepp",
+  "application_welcome_message": "Chào mừng bạn đến với Hi!Yepp",
+  "default_homeserver": "http://161.118.210.69:8448",
+  "web_base_url": "http://localhost:8080",
+  "render_html": true,
+  "hide_redacted_events": false,
+  "hide_unknown_events": false
+}
